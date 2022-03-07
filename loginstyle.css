@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.offer{
+    background-color: black;
+    color: white;
+    height: 35px;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+#img{
+    position: relative;
+    left: 29%;
+
+}
+.navbar ul{
+    list-style: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    display:flex;
+    position: relative;
+    top: 10px;
+    justify-content: space-around;
+}
+.line{
+    height: 1px;
+    width:100%;
+    background-color: grey;
+    position: relative;
+    top: 30px;
+}

@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.offer{
+    background-color: black;
+    color: white;
+    height: 35px;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+#img{
+    position: relative;
+    left: 29%;
+
+}
+.navbar ul{
+    list-style: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    display:flex;
+    position: relative;
+    top: 10px;
+    justify-content: space-around;
+}
+.line{
+    height: 1px;
+    width:100%;
+    background-color: grey;
+    position: relative;
+    top: 30px;
+}
+.titles{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
+.titles p{
+    position: relative;
+    top:45px;
+}
+#firstname{
+    display: grid;
+    position: relative;
+    top: 300px;
+    left: 45%;
+    width:350px;
+    height: 35px;
+}
+#Lastname{
+    position: relative;
+    top: 320px;
+    left: 45%;
+}
+#Email{
+    display: grid;
+    position: relative;
+    top: 340px;
+    left: 45%;
+}
+#Password{
+    position: relative;
+    top: 360px;
+    left: 45%;
+}
